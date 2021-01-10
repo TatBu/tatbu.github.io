@@ -1,2 +1,2 @@
 # tatbu.github.io
-[ссылка](seogrant.ru Сеогрант) тут
+[ссылка](http://seogrant.ru Сеогрант) тут
